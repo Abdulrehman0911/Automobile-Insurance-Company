@@ -5,3 +5,4 @@ insurance.exe
 *.ilk
 *.pdb
 .vscode/
+!insurance.exe
