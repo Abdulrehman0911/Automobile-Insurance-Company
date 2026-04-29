@@ -1,21 +1,6 @@
-# Automobile Insurance System
 
-A complete C++ text-based automobile insurance management system with a 3-layer architecture.
-
-
-## Build & Run
-
-**On Windows (VS Code Run button or Command Prompt):**
-```bash
- Usage on Windows:
-   g++ -std=c++17 -Wall -o insurance.exe main.cpp business/*.cpp repository/*.cpp ui/*.cpp
-   .\insurance.exe
-```
-
-**On Linux/Mac:**
-```bash
-g++ -std=c++17 -Wall -o insurance main.cpp business/*.cpp repository/*.cpp ui/*.cpp
 # Automobile Insurance Management System
+
 
 A Windows-based, text-driven automobile insurance management system built in C++17 with a clear 3-layer architecture.
 
