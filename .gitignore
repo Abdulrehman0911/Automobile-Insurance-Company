@@ -1,0 +1,7 @@
+insurance.exe
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
+.vscode/

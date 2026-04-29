@@ -1,0 +1,3 @@
+ST001|Admin User|admin|admin123|Manager
+ST002|Bilal Ahmed|bilal|pass123|Salesman
+ST003|Sara Khan|sara|pass123|Surveyor
